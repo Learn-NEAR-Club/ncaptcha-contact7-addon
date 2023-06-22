@@ -1,0 +1,19 @@
+{
+  "name": "lnc/ncaptcha-gravity-addon",
+  "description": "nCaptcha",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "stevenakni",
+      "email": "stevenaknidev@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "LNCNcaptchaContact7Addon\\": ""
+    }
+  }
+}
