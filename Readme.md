@@ -18,10 +18,10 @@ Revenue is configurable on your side. So all that you need is get original Conta
 == Installation ==
 1. Install core Contact Form 7 form plugin from https://contactform7.com/
 2. (Optional) Install our core login with near plugin to synchronize user wallets with your site https://wordpress.org/plugins/near-login/. This plugin also works without this step.
-2. Upload the plugin files to the `/wp-content/plugins/lnc-ncaptcha-contact7-addon` directory, or install the plugin through the WordPress plugins screen directly.
-3. Activate the Contact Form 7 form plugin and this plugin through the 'Plugins' screen in WordPress.
-4. Create Contact Form 7 form with nCaptcha and nCaptcha transaction fields ([ncaptcha price:0.01, owner:wallet.near], [ncaptchatrans])
-5. Join the results
+3. Upload the plugin files to the `/wp-content/plugins/lnc-ncaptcha-contact7-addon` directory, or install the plugin through the WordPress plugins screen directly.
+4. Activate the Contact Form 7 form plugin and this plugin through the 'Plugins' screen in WordPress.
+5. Create Contact Form 7 form with nCaptcha and nCaptcha transaction fields ([ncaptcha price:0.01, owner:wallet.near], [ncaptchatrans])
+6. Join the results
 
 == Screenshots ==
 
