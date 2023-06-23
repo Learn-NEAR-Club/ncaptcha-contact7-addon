@@ -25,9 +25,10 @@ Revenue is configurable on your side. So all that you need is get original Conta
 
 == Screenshots ==
 
-1. Create form using nCaptcha and nCaptcha transaction fields screenshot-1.png using price and your near account
-3. Add form to page using gutenberg blocks or classic editor screenshot-2.png.
-4. Now nCaptcha is provided. screenshot-3.png
+1. Create form using nCaptcha and nCaptcha transaction fields ![screenshot1](/assets/screenshot-1.png?raw=true)
+    using price and your near account
+2. Add form to page using gutenberg blocks or classic editor ![screenshot1](/assets/screenshot-2.png?raw=true).
+3. Now nCaptcha is provided. ![screenshot1](/assets/screenshot-3.png?raw=true)
 
 == Important Notes ==
 
