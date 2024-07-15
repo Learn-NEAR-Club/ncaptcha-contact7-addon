@@ -22,9 +22,10 @@ class NCaptchaController
         $price = $tag->get_option('price');
         $owner = $tag->get_option('owner');
 
-        $priceValue = is_array($price) ? $price[0] : $price;
-        $ownerValue = is_array($owner) ? $owner[0] : $owner;
 
+        $priceValue = is_array($price) ? $price[0] : $price;
+
+        $ownerValue = is_array($owner) ? $owner[0] : $owner;
         $html = '<div id="nCaptcha-verification" data-account="' . $ownerValue . '" data-price="' . $priceValue . '">';
         $html .= $tag->get_option('label', '');
         $html .= isset($tag->values['after']) && is_array($tag->values['after']) ? $tag->values['after'][0] : '';
