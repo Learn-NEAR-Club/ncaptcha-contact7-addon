@@ -70,9 +70,16 @@ class Constructor
     public function addScripts(): void
     {
         wp_enqueue_script(
+            'ncaptcha-script',
+            'https://ncaptcha.xyz/n-captcha/n-captcha@latest.js',
+            [],
+            null,
+            true
+        );
+        wp_enqueue_script(
             'lnc-ncaptcha-contact7-addon',
             $this->config->getScriptsPath() . 'index.js',
-            ['jquery'],
+            ['jquery', 'ncaptcha-script'],
             time(),
             true
         );

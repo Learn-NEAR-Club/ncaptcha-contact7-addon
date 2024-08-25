@@ -1,8 +1,8 @@
 === LNC nCaptcha Contact Form 7 addon  ===
 Tags: Near, comments, nCaptcha, web3, blockchain
-Requires at least: 6.0.1
-Tested up to: 6.2.2
-Stable tag: 0.0.1
+Requires at least: 6.6.1
+Tested up to: 6.6.1
+Stable tag: 0.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,7 +20,7 @@ Revenue is configurable on your side. So all that you need is get original Conta
 2. (Optional) Install our core login with near plugin to synchronize user wallets with your site https://wordpress.org/plugins/near-login/. This plugin also works without this step.
 3. Upload the plugin files to the `/wp-content/plugins/lnc-ncaptcha-contact7-addon` directory, or install the plugin through the WordPress plugins screen directly.
 4. Activate the Contact Form 7 form plugin and this plugin through the 'Plugins' screen in WordPress.
-5. Create Contact Form 7 form with nCaptcha and nCaptcha transaction fields ([ncaptcha price:0.01, owner:wallet.near], [ncaptchatrans])
+5. Create Contact Form 7 form with nCaptcha and nCaptcha transaction fields ([ncaptcha price:0.01 owner:wallet.near], [ncaptchatrans])
 6. Join the results
 
 == Screenshots ==

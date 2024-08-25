@@ -2,7 +2,7 @@
 /**
  * Plugin Name: nCaptcha Contact Form 7 addon
  * Description: nCaptcha provider for Contact Form 7
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: LNC
  * Author URI: http://learnnear.club/
  */
